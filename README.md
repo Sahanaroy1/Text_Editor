@@ -20,7 +20,7 @@
 * It'd done when the application is deployed in Render I should have proper build script for the webpack application.
 
 Github URL:
-
+https://github.com/Sahanaroy1/Text_Editor
 
 Render Url:
 
