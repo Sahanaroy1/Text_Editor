@@ -26,3 +26,4 @@ Render Url:
 
 
 Snippet of the Application:
+<img width="1409" alt="Jate" src="https://github.com/Sahanaroy1/Text_Editor/assets/127791384/e670d890-1451-4851-a609-7dd56827b71d">
