@@ -7,7 +7,7 @@
 
 ## Acceptance Criteria
 * It's done when I open the application in visual studio code I see the client server folder.
-* It's done when npm run start:dev is given in the terminal after npm install the application starts the backend and serves the client.
+* It's done when `npm run start:dev` is given in the terminal after npm install the application starts the backend and serves the client.
 * It's done when the text editor is run from the terminal I can see the javascipt files bundled up using webpack.
 * It's done when the webpack plugins are run I can see the HTML file, service worker, and a manifest file.
 * It's done when the nex-gen Javascript is being used I can see text editor still functions in the browser without errors.
